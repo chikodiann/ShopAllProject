@@ -2,5 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ShopmeCommon" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ShopmeWebParent" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ShopmeWebParent/Activity_Tracker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ShopmeWebParent/ShopmeBackEnd" vcs="Git" />
   </component>
 </project>
